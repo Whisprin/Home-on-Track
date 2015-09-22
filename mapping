@@ -1,0 +1,57 @@
+Power: http://192.168.178.63:8085/sendrcpackage?keyid=-2544&keysymbol=-4081
+
+Menu: http://192.168.178.63:8085/sendrcpackage?keyid=-2547&keysymbol=-4078
+Exit: http://192.168.178.63:8085/sendrcpackage?keyid=-2534&keysymbol=-3998
+Back: http://192.168.178.63:8085/sendrcpackage?keyid=-2542&keysymbol=-3979
+Left: http://192.168.178.63:8085/sendrcpackage?keyid=-2495&keysymbol=-4096
+Right: http://192.168.178.63:8085/sendrcpackage?keyid=-2494&keysymbol=-4095
+Top: http://192.168.178.63:8085/sendrcpackage?keyid=-2493&keysymbol=-4094
+Bottom: http://192.168.178.63:8085/sendrcpackage?keyid=-2492&keysymbol=-4093
+Ok: http://192.168.178.63:8085/sendrcpackage?keyid=-2490&keysymbol=13
+Tools: http://192.168.178.63:8085/sendrcpackage?keyid=-2506&keysymbol=-4079
+Source: http://192.168.178.63:8085/sendrcpackage?keyid=-2541&keysymbol=-3992
+Guide: http://192.168.178.63:8085/sendrcpackage?keyid=-2536&keysymbol=-4069
+
+Fav: http://192.168.178.63:8085/sendrcpackage?keyid=-2557&keysymbol=-4071
+Txt: http://192.168.178.63:8085/sendrcpackage?keyid=-2543&keysymbol=-3990
+
+
+0-9
+http://192.168.178.63:8085/sendrcpackage?keyid=-2533&keysymbol=48
+http://192.168.178.63:8085/sendrcpackage?keyid=-2532&keysymbol=49
+http://192.168.178.63:8085/sendrcpackage?keyid=-2531&keysymbol=50
+http://192.168.178.63:8085/sendrcpackage?keyid=-2530&keysymbol=51
+http://192.168.178.63:8085/sendrcpackage?keyid=-2529&keysymbol=52
+http://192.168.178.63:8085/sendrcpackage?keyid=-2528&keysymbol=53
+http://192.168.178.63:8085/sendrcpackage?keyid=-2527&keysymbol=54
+http://192.168.178.63:8085/sendrcpackage?keyid=-2526&keysymbol=55
+http://192.168.178.63:8085/sendrcpackage?keyid=-2525&keysymbol=56
+http://192.168.178.63:8085/sendrcpackage?keyid=-2524&keysymbol=57
+
+Vol+: http://192.168.178.63:8085/sendrcpackage?keyid=-2475&keysymbol=-4020
+Vol-: http://192.168.178.63:8085/sendrcpackage?keyid=-2476&keysymbol=-4019
+Mute: http://192.168.178.63:8085/sendrcpackage?keyid=-2539&keysymbol=-4018
+
+P+: http://192.168.178.63:8085/sendrcpackage?keyid=-2464&keysymbol=-4026
+P-: http://192.168.178.63:8085/sendrcpackage?keyid=-2465&keysymbol=-4025
+
+3D: http://192.168.178.63:8085/sendrcpackage?keyid=-2534&keysymbol=-4038
+
+?: http://192.168.178.63:8085/sendrcpackage?keyid=-2551&keysymbol=-4076
+
+Rec: http://192.168.178.63:8085/sendrcpackage?keyid=-2535&keysymbol=-4010
+Play: http://192.168.178.63:8085/sendrcpackage?keyid=-2548&keysymbol=-4015
+Pause: http://192.168.178.63:8085/sendrcpackage?keyid=-2480&keysymbol=-4086
+Stop: http://192.168.178.63:8085/sendrcpackage?keyid=-2545&keysymbol=-4014
+Prev: http://192.168.178.63:8085/sendrcpackage?keyid=-2538&keysymbol=-4005
+Back: http://192.168.178.63:8085/sendrcpackage?keyid=-2558&keysymbol=-3977
+Forward: http://192.168.178.63:8085/sendrcpackage?keyid=-2555&keysymbol=-4023
+Next: http://192.168.178.63:8085/sendrcpackage?keyid=-2546&keysymbol=-4004
+Language: http://192.168.178.63:8085/sendrcpackage?keyid=-2549&keysymbol=-3984
+Subtitle: http://192.168.178.63:8085/sendrcpackage?keyid=-2507&keysymbol=-4064
+
+Red: http://192.168.178.63:8085/sendrcpackage?keyid=-2523&keysymbol=-4030
+Green: http://192.168.178.63:8085/sendrcpackage?keyid=-2522&keysymbol=-4029
+Yellow: http://192.168.178.63:8085/sendrcpackage?keyid=-2521&keysymbol=-4028
+Blue: http://192.168.178.63:8085/sendrcpackage?keyid=-2520&keysymbol=-4027
+
