@@ -1,4 +1,4 @@
-require './changeTvInput.rb'
+require_relative 'changeTvInput.rb'
 
 host = "grundig"
 
